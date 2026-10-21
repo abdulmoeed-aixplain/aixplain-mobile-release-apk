@@ -2,4 +2,5 @@
 
 | Build | Version | Released (UTC) | Required | Commit | Notes |
 |---|---|---|---|---|---|
+| 8 | 1.0.0 | 2026-10-21 07:08:12Z | - | `2b2c448` | Pairing works with an address that has a port (like 192.168.1.20:4099), and a code meant for another computer says so. |
 | 7 | 1.0.0 | 2026-10-20 17:01:10Z | - | `27a3651` | First build with in-app update notifications. |

@@ -1,12 +1,12 @@
 {
-  "build": 7,
+  "build": 8,
   "version": "1.0.0",
-  "apkUrl": "https://github.com/abdulmoeed-aixplain/aixplain-mobile-release-apk/releases/download/build-7/aixplain-1.0.0-build7.apk",
+  "apkUrl": "https://github.com/abdulmoeed-aixplain/aixplain-mobile-release-apk/releases/download/build-8/aixplain-1.0.0-build8.apk",
   "minSupportedBuild": 0,
-  "notes": "First build with in-app update notifications.",
-  "sha256": "6c3aa5983c4819588a28913053dae08a9e4d9c84185d35aa3801ab4e66ebfaf5",
-  "sizeBytes": 95098726,
-  "commit": "27a3651b7bc45f70591d8a5d1adf246045c0a820",
-  "releasedAt": "2026-10-20T17:01:10Z",
+  "notes": "Pairing works with an address that has a port (like 192.168.1.20:4099), and a code meant for another computer says so.",
+  "sha256": "13b6c6e971a3b9980edf7f0d0d88c528ae4258c1e19d2e66b9c4db3c8a963098",
+  "sizeBytes": 95164262,
+  "commit": "2b2c44821cfbd20ea1b4497b2e61b0e111e7f082",
+  "releasedAt": "2026-10-21T07:08:12Z",
   "signingCertSha256": "e569bc9904d9ff62be4b9d86824cb53a1c932ee9e442af8f78e5604fe4cfe260"
 }
