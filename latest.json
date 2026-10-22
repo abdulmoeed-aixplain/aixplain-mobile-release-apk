@@ -1,12 +1,12 @@
 {
-  "build": 8,
+  "build": 9,
   "version": "1.0.0",
-  "apkUrl": "https://github.com/abdulmoeed-aixplain/aixplain-mobile-release-apk/releases/download/build-8/aixplain-1.0.0-build8.apk",
+  "apkUrl": "https://github.com/abdulmoeed-aixplain/aixplain-mobile-release-apk/releases/download/build-9/aixplain-1.0.0-build9.apk",
   "minSupportedBuild": 0,
-  "notes": "Pairing works with an address that has a port (like 192.168.1.20:4099), and a code meant for another computer says so.",
-  "sha256": "13b6c6e971a3b9980edf7f0d0d88c528ae4258c1e19d2e66b9c4db3c8a963098",
-  "sizeBytes": 95164262,
-  "commit": "2b2c44821cfbd20ea1b4497b2e61b0e111e7f082",
-  "releasedAt": "2026-10-21T07:08:12Z",
+  "notes": "Paired computers now check your aiXplain account and show which workspace they run in.",
+  "sha256": "391f178ff609a7fa4850855cda76cba3b6ab93c69aab020bdf3f4fa58d662284",
+  "sizeBytes": 95197106,
+  "commit": "1256fd86083b55f46f8450ea99c4414103754488",
+  "releasedAt": "2026-10-22T18:32:06Z",
   "signingCertSha256": "e569bc9904d9ff62be4b9d86824cb53a1c932ee9e442af8f78e5604fe4cfe260"
 }
