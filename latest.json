@@ -1,12 +1,12 @@
 {
-  "build": 9,
+  "build": 10,
   "version": "1.0.0",
-  "apkUrl": "https://github.com/abdulmoeed-aixplain/aixplain-mobile-release-apk/releases/download/build-9/aixplain-1.0.0-build9.apk",
+  "apkUrl": "https://github.com/abdulmoeed-aixplain/aixplain-mobile-release-apk/releases/download/build-10/aixplain-1.0.0-build10.apk",
   "minSupportedBuild": 0,
-  "notes": "Paired computers now check your aiXplain account and show which workspace they run in.",
-  "sha256": "391f178ff609a7fa4850855cda76cba3b6ab93c69aab020bdf3f4fa58d662284",
-  "sizeBytes": 95197106,
-  "commit": "1256fd86083b55f46f8450ea99c4414103754488",
-  "releasedAt": "2026-10-22T18:32:06Z",
+  "notes": "A new look: Omni and Koder share one side menu, and + turns Omni's tools on and off. Continue a chat from your computer with /rc, or reach a paired computer away from home with Tailscale. Voice input works again, big photos upload, and a reply keeps going when you switch chats.",
+  "sha256": "01706d5c44b00c04a4d0da3662cfb287ce328252640c0d12457d65c8bfee4a4f",
+  "sizeBytes": 97080494,
+  "commit": "df016b9916da064f107c839ec62fad6210527ec1",
+  "releasedAt": "2026-10-29T20:49:46Z",
   "signingCertSha256": "e569bc9904d9ff62be4b9d86824cb53a1c932ee9e442af8f78e5604fe4cfe260"
 }
