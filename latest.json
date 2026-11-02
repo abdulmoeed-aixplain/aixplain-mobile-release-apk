@@ -1,12 +1,12 @@
 {
-  "build": 10,
+  "build": 14,
   "version": "1.0.0",
-  "apkUrl": "https://github.com/abdulmoeed-aixplain/aixplain-mobile-release-apk/releases/download/build-10/aixplain-1.0.0-build10.apk",
+  "apkUrl": "https://github.com/abdulmoeed-aixplain/aixplain-mobile-release-apk/releases/download/build-14/aixplain-1.0.0-build14.apk",
   "minSupportedBuild": 0,
-  "notes": "A new look: Omni and Koder share one side menu, and + turns Omni's tools on and off. Continue a chat from your computer with /rc, or reach a paired computer away from home with Tailscale. Voice input works again, big photos upload, and a reply keeps going when you switch chats.",
-  "sha256": "01706d5c44b00c04a4d0da3662cfb287ce328252640c0d12457d65c8bfee4a4f",
-  "sizeBytes": 97080494,
-  "commit": "df016b9916da064f107c839ec62fad6210527ec1",
-  "releasedAt": "2026-10-29T20:49:46Z",
+  "notes": "Share your location for answers about places near you (optional, in Settings). Charts in answers, a new Settings page, and a way to say why a reply missed. Next updates will come through Google Play.",
+  "sha256": "fd037ef01a18b5977076e0a6a36f4b318d97ce05cb33360208f44fb26b65719d",
+  "sizeBytes": 98703541,
+  "commit": "d6a859848b018ec441128a53552bae1c6aece5f2",
+  "releasedAt": "2026-11-02T20:20:25Z",
   "signingCertSha256": "e569bc9904d9ff62be4b9d86824cb53a1c932ee9e442af8f78e5604fe4cfe260"
 }
